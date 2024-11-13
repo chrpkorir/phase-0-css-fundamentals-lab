@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a {
+
+  padding: 10px;
+  background-color: gray;
+}
+nav {
+  margin: 0 auto;
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+section#featured-property p{
+    width: 800px;
+    vertical-align: middle;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+section#details {
+  
+  div {
+    float: left;
+    text-align: center;
+    width: 25%;
+    background-color: red; 
+  
+a {
+  color: black;
+}
+p {
+  color: black;
+}
+  }
+}
